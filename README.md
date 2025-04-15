@@ -4,7 +4,6 @@ If it: 3D prints, flies remotely, is a bot, some sort of AI, can deadlift 400lbs
 <br/>
 You have my interest. 
 <br/>
-<br/>
 
 If you are interested in working on something like this...
 <br/>
